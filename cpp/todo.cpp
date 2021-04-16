@@ -32,7 +32,7 @@ fio.open("todo.txt", ios::out | ios::in |ios::app) ;
 
 
 
- if(rr=="add") //add
+ if(rr=="add")  //add
 { 
 vector<string> v;
 line=arv[2];
